@@ -1,3 +1,2 @@
 The second line of text.
-The third line of text. 
-Fourth Line of text.
+The third line of text.
